@@ -154,6 +154,7 @@
 ## Cash and cash equivalents
 - **Description:** This includes checking accounts, savings accounts, and readily available funds. It represents the most liquid assets you possess. These funds are easily accessible for immediate use.
 - **Balances:**   
+
 | As_of       | Balance  |
 |-------------|----------|
 | 2023-01-03  | 200000.0 |
@@ -165,6 +166,7 @@
 ## Liquid investments and marketable securities
 - **Description:** This category encompasses assets like stocks, bonds, and mutual funds that can be quickly converted to cash. These investments are traded on public exchanges. Their value can fluctuate based on market conditions.
 - **Balances:**   
+
 | As_of       | Balance    |
 |-------------|------------|
 | 2024-01-03  | 8000000.0  |
@@ -176,6 +178,7 @@
 ## Cash value of life insurance
 - **Description:** Some life insurance policies accumulate a cash value over time. This cash value can be borrowed against or withdrawn. However, doing so may reduce the death benefit.
 - **Balances:**   
+
 | As_of       | Balance   |
 |-------------|-----------|
 | 2024-01-03  | 100000.0  |
@@ -187,6 +190,7 @@
 ## Restricted or control stocks
 - **Description:** These are shares of stock that have limitations on when they can be sold. Restrictions are usually imposed by the company. Control stock often refers to shares held by company insiders.
 - **Balances:**   
+
 | As_of       | Balance    |
 |-------------|------------|
 | 2024-01-03  | 1000000.0  |
@@ -198,6 +202,7 @@
 ## IRAs, KEOGHs, 401(k)s and other retirement assets
 - **Description:** These are tax-advantaged retirement savings accounts. They are designed to help you save for your future. Withdrawals are typically subject to taxes and penalties before a certain age.
 - **Balances:**   
+
 | As_of       | Balance    |
 |-------------|------------|
 | 2024-01-03  | 2000000.0  |
@@ -209,6 +214,7 @@
 ## Personal real estate
 - **Description:** This includes your primary residence and any other real estate held for personal use. It is a significant asset for many individuals. The value is subject to market fluctuations and maintenance costs.
 - **Balances:**   
+
 | As_of       | Balance    |
 |-------------|------------|
 | 2024-01-03  | 2500000.0  |
@@ -220,6 +226,7 @@
 ## Commercial/investment real estate
 - **Description:** This category refers to properties owned for investment purposes. This can include rental properties, office buildings, or land. Income is derived from rental income and potential appreciation.
 - **Balances:**   
+
 | As_of       | Balance    |
 |-------------|------------|
 | 2024-01-03  | 4000000.0  |
@@ -231,6 +238,7 @@
 ## Partnership/private corporation
 - **Description:** This represents ownership in a business entity that is not publicly traded. The value is based on the business's assets and liabilities. Valuation can be complex and may require professional expertise.
 - **Balances:**   
+
 | As_of       | Balance    |
 |-------------|------------|
 | 2024-01-03  | 3000000.0  |
@@ -242,6 +250,7 @@
 ## Non-marketable securities/alternative investments/private equity
 - **Description:** These are investments that are not easily bought or sold on public markets. They can include hedge funds, venture capital, and private equity. These investments are less liquid and may carry higher risk.
 - **Balances:**   
+
 | As_of       | Balance      |
 |-------------|--------------|
 | 2024-01-03  | 10900000.0   |
@@ -253,6 +262,7 @@
 ## Account and loan receivables
 - **Description:** This represents money owed to you by others. This includes outstanding invoices or loans you have made. The value depends on the likelihood of collection.
 - **Balances:**   
+
 | As_of       | Balance  |
 |-------------|----------|
 | 2024-01-03  | 0.0      |
@@ -264,6 +274,7 @@
 ## Automobiles and other personal property
 - **Description:** This includes the value of your vehicles, furniture, jewelry, and other personal belongings. While these items have value, they may depreciate over time. Sentimental value is not considered.
 - **Balances:**   
+
 | As_of       | Balance   |
 |-------------|-----------|
 | 2024-01-03  | 400000.0  |
@@ -275,6 +286,7 @@
 ## Other assets (itemize)
 - **Description:** This category is for any assets that do not fit into the other categories. Please provide a detailed list of these assets. Include a reasonable estimate of their value.
 - **Balances:**   
+
 | As_of       | Balance   |
 |-------------|-----------|
 | 2024-01-03  | 700000.0  |
@@ -287,6 +299,7 @@
 ## Unsecured debt to banks
 - **Description:** This includes any loans from banks that are not backed by collateral. Examples include personal loans and lines of credit. Interest rates and repayment terms vary.
 - **Balances:**   
+
 | As_of       | Balance   |
 |-------------|-----------|
 | 2024-01-03  | 50000.0   |
@@ -294,6 +307,7 @@
 ## Secured debt to banks
 - **Description:** These are loans from banks that are backed by collateral, such as a car or a house. If you default, the bank can seize the collateral. These loans typically have lower interest rates than unsecured debt.
 - **Balances:**   
+
 | As_of       | Balance   |
 |-------------|-----------|
 | 2024-01-03  | 350000.0  |
@@ -301,6 +315,7 @@
 ## Margin debt
 - **Description:** This is debt incurred when borrowing money from a brokerage to buy securities. It can amplify both gains and losses. Margin calls can occur if the value of the securities declines.
 - **Balances:**   
+
 | As_of       | Balance    |
 |-------------|------------|
 | 2024-01-03  | 1000000.0  |
@@ -308,6 +323,7 @@
 ## Loans against IRAs, KEOGHs, 401(k)s and other retirement assets
 - **Description:** This is a loan taken out against your retirement savings. While it provides access to funds, it can impact your retirement savings growth. Failure to repay can result in taxes and penalties.
 - **Balances:**   
+
 | As_of       | Balance  |
 |-------------|----------|
 | 2024-01-03  | 0.0      |
@@ -315,6 +331,7 @@
 ## Personal real estate mortgage/equity
 - **Description:** This is the outstanding balance on your home mortgage. It represents a significant liability for most homeowners. Equity is the difference between the home's value and the mortgage balance.
 - **Balances:**   
+
 | As_of       | Balance   |
 |-------------|-----------|
 | 2024-01-03  | 700000.0  |
@@ -322,6 +339,7 @@
 ## Commercial/investment real estate mortgage
 - **Description:** This is the outstanding balance on mortgages for your investment properties. It's crucial to manage these mortgages effectively for positive cash flow. Interest rates can impact profitability.
 - **Balances:**   
+
 | As_of       | Balance    |
 |-------------|------------|
 | 2024-01-03  | 2000000.0  |
@@ -329,6 +347,7 @@
 ## Amounts payable to others
 - **Description:** This includes any outstanding bills or debts owed to individuals or businesses. This can include credit card balances, medical bills, or unpaid services. Timely payment is important to avoid late fees and penalties.
 - **Balances:**   
+
 | As_of       | Balance  |
 |-------------|----------|
 | 2024-01-03  | 20000.0  |
@@ -336,6 +355,7 @@
 ## Unpaid income tax
 - **Description:** This is the amount of income tax owed to federal, state, or local governments. Failure to pay on time can result in penalties and interest. Accurate tax planning is essential.
 - **Balances:**   
+
 | As_of       | Balance   |
 |-------------|-----------|
 | 2024-01-03  | 50000.0   |
@@ -343,6 +363,7 @@
 ## Other unpaid taxes and interest
 - **Description:** This includes any other unpaid taxes, such as property taxes or sales taxes. It also includes any accrued interest on those taxes. These liabilities can accrue quickly if not addressed.
 - **Balances:**   
+
 | As_of       | Balance   |
 |-------------|-----------|
 | 2024-01-03  | 10000.0   |
@@ -350,6 +371,7 @@
 ## Other debts (itemize)
 - **Description:** This category is for any debts that do not fit into the other categories. Please provide a detailed list of these debts. Include the creditor and the outstanding balance.
 - **Balances:**   
+
 | As_of       | Balance  |
 |-------------|----------|
 | 2024-01-03  | 0.0      |
@@ -357,6 +379,7 @@
 ## Total Liabilities
 - **Description:** This is the sum of all your liabilities listed above. It represents your total debt obligations. Compare this to your total assets to assess your financial leverage.
 - **Balances:**   
+
 | As_of       | Balance    |
 |-------------|------------|
 | 2024-01-03  | 4280000.0  |
@@ -365,6 +388,7 @@
 ## Gross salary
 - **Description:** This is your total income before any deductions for taxes, insurance, or retirement contributions. It is the primary source of income for most individuals. Consistent income provides financial stability.
 - **Balances:**   
+
 | As_of       | Balance    |
 |-------------|------------|
 | 2024-01-03  | 1200000.0  |
@@ -378,6 +402,7 @@
 #### Interest Income
 - **Description:** This is income earned from interest-bearing accounts and investments. Examples include savings accounts, bonds, and certificates of deposit. Interest rates vary depending on the investment.
 - **Balances:**   
+
   | As_of       | Balance  |
   |-------------|----------|
   | 2024-01-03  | 50000.0  |
@@ -390,6 +415,7 @@
 #### Dividend Income
 - **Description:** This is income received from owning shares of stock in dividend-paying companies. Dividends are typically paid quarterly. They represent a portion of the company's profits.
 - **Balances:**   
+
   | As_of       | Balance  |
   |-------------|----------|
   | 2024-01-03  | 75000.0  |
@@ -402,6 +428,7 @@
 #### Bonus/Commissions
 - **Description:** This is additional income earned based on performance or sales targets. It can be a significant portion of total compensation. Bonuses and commissions are often variable and depend on individual or company performance.
 - **Balances:**   
+
   | As_of       | Balance    |
   |-------------|------------|
   | 2024-01-03  | 500000.0   |
@@ -414,6 +441,7 @@
 #### Net Cash Flow–Real Estate Investments
 - **Description:** This is the income generated from rental properties after deducting expenses. Expenses include mortgage payments, property taxes, and maintenance costs. Positive cash flow indicates a profitable investment.
 - **Balances:**   
+
   | As_of       | Balance    |
   |-------------|------------|
   | 2024-01-03  | 200000.0   |
@@ -426,6 +454,7 @@
 #### Net Cash Flow–Other Partnerships
 - **Description:** This is the income received from partnerships after deducting expenses. It represents your share of the partnership's profits. The specific terms of the partnership agreement govern income distribution.
 - **Balances:**   
+
   | As_of       | Balance    |
   |-------------|------------|
   | 2024-01-03  | 150000.0   |
@@ -438,6 +467,7 @@
 #### Net Cash Flow–S Corporations
 - **Description:** This is the income received from an S corporation after deducting expenses. S corporations pass their income directly to shareholders. Shareholders then report the income on their individual tax returns.
 - **Balances:**   
+
   | As_of       | Balance  |
   |-------------|----------|
   | 2024-01-03  | 0.0      |
@@ -450,6 +480,7 @@
 #### Sale of Securities
 - **Description:** This is the income received from selling stocks, bonds, or other securities. Capital gains taxes may apply to the profit from the sale. Keeping track of cost basis is crucial for tax purposes.
 - **Balances:**   
+
   | As_of       | Balance    |
   |-------------|------------|
   | 2024-01-03  | 100000.0   |
@@ -462,6 +493,7 @@
 #### Sale of Real Estate (Please Attach List)
 - **Description:** This is the income received from selling real estate properties. Capital gains taxes may apply to the profit from the sale. Please provide a list of properties sold with their respective sale prices and cost bases.
 - **Balances:**   
+
   | As_of       | Balance  |
   |-------------|----------|
   | 2024-01-03  | 0.0      |
@@ -474,6 +506,7 @@
 #### Sale of Other Assets (Please Attach List)
 - **Description:** This is the income received from selling other assets, such as collectibles or personal property. Capital gains taxes may apply to the profit from the sale. Please provide a list of assets sold with their respective sale prices and cost bases.
 - **Balances:**   
+
   | As_of       | Balance  |
   |-------------|----------|
   | 2024-01-03  | 0.0      |
@@ -486,6 +519,7 @@
 #### Other Income
 - **Description:** This category is for any income that does not fit into the other categories. Examples include royalties, alimony, or freelance income. Please provide a detailed description of the source of income.
 - **Balances:**   
+
   | As_of       | Balance  |
   |-------------|----------|
   | 2024-01-03  | 25000.0  |
@@ -500,6 +534,7 @@
 #### Federal Taxes
 - **Description:** This is the amount of income tax paid to the federal government. It is a significant expense for most individuals. Tax planning can help minimize your tax liability.
 - **Balances:**   
+
   | As_of       | Balance  |
   |-------------|----------|
   | 2024-01-03  | 600000.0 |
@@ -508,6 +543,7 @@
 #### State and Local Taxes
 - **Description:** This is the amount of income tax paid to state and local governments. The specific tax rates and deductions vary by location. State and local taxes can also include property taxes and sales taxes.
 - **Balances:**   
+
   | As_of       | Balance  |
   |-------------|----------|
   | 2024-01-03  | 150000.0 |
@@ -516,6 +552,7 @@
 #### Real Estate Taxes
 - **Description:** This is the annual tax levied on real estate property. The amount is based on the assessed value of the property. Real estate taxes are a significant expense for homeowners.
 - **Balances:**   
+
   | As_of       | Balance  |
   |-------------|----------|
   | 2024-01-03  | 75000.0  |
@@ -524,6 +561,7 @@
 #### Mortgage Payments
 - **Description:** This is the monthly payment made towards your home mortgage. It includes both principal and interest. A significant portion of your mortgage payment may be interest, especially in the early years of the loan.
 - **Balances:**   
+
   | As_of       | Balance  |
   |-------------|----------|
   | 2024-01-03  | 150000.0 |
@@ -532,6 +570,7 @@
 #### Bank Interest Expenses
 - **Description:** This is the interest paid on loans from banks. The interest rate depends on the type of loan and your creditworthiness. Managing debt and minimizing interest expenses is crucial for financial health.
 - **Balances:**   
+
   | As_of       | Balance  |
   |-------------|----------|
   | 2024-01-03  | 20000.0  |
@@ -540,6 +579,7 @@
 #### Bank Principal Repayments
 - **Description:** This is the portion of your loan payment that reduces the outstanding loan balance. Each payment includes both principal and interest. As you make payments, a larger portion goes towards the principal.
 - **Balances:**   
+
   | As_of       | Balance  |
   |-------------|----------|
   | 2024-01-03  | 50000.0  |
@@ -548,6 +588,7 @@
 #### Margin Interest Expenses
 - **Description:** This is the interest paid on margin loans used to purchase securities. It is a tax-deductible expense. High margin interest can erode investment returns.
 - **Balances:**   
+
   | As_of       | Balance  |
   |-------------|----------|
   | 2024-01-03  | 100000.0 |
